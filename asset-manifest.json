@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/learn-react-counter-app/static/css/main.1a496f09.css",
+    "main.js": "/learn-react-counter-app/static/js/main.51de3215.js",
+    "static/js/787.e458d2a5.chunk.js": "/learn-react-counter-app/static/js/787.e458d2a5.chunk.js",
+    "index.html": "/learn-react-counter-app/index.html",
+    "main.1a496f09.css.map": "/learn-react-counter-app/static/css/main.1a496f09.css.map",
+    "main.51de3215.js.map": "/learn-react-counter-app/static/js/main.51de3215.js.map",
+    "787.e458d2a5.chunk.js.map": "/learn-react-counter-app/static/js/787.e458d2a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a496f09.css",
+    "static/js/main.51de3215.js"
+  ]
+}
